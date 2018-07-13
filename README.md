@@ -44,3 +44,14 @@ save and restart your bash session to load in the new path
 wssh user@10.0.0.1 
 ```
 
+## Roadmap
+
+Short term
+
+- Add ipv6
+- Check for port availabillity instead of reachable by ping
+
+Wish list
+
+- Remove external dependency's (like ping)
+- Initiate the connection as early as possible (faster)
